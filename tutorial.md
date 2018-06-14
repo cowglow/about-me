@@ -40,7 +40,7 @@ class: brown center, middle
 
 ---
 class: center, middle
-# Why did I move Germany?
+# Why did I move to Germany?
 
 ---
 class: orange center, middle
@@ -89,6 +89,7 @@ class: orange center, middle
 ---
 class: orange center, middle
 # Tollwerk
+![](images/tollwerk.png)
 
 ---
 class: center middle
