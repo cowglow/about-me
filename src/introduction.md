@@ -1,18 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>cg-philipsaa-rmrk</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <link rel="stylesheet" type="text/css" href="styles/main.css">
-</head>
-<body>
-<textarea id="source">
 htmltitle: Profile on @cowglow
 class: orange center, middle, title
 
 # COWGLOW
 ## An Introduction - June 2018
-![](images/cg-yt-brand.png)
+![](assets/cg-yt-brand.png)
 .right[
     Philip Saa  
     @cowglow
@@ -25,7 +16,7 @@ class: center, middle
 class: orange center
 # Facts About Me
 
-![](images/psaa.png)
+![](assets/psaa.png)
 
 ---
 class: brown center, middle
@@ -39,7 +30,7 @@ class: brown center, middle
 ## Learned Coding with `Pascal`
 ## Worked with `ActionScript` & `Lingo`
 ## Later learned `JavaScript` & `PHP`
-## Recently, `AngularJS` & `ReactJS`
+## Recently, `Angular` & `React`
 
 ---
 class: brown center, middle
@@ -53,12 +44,12 @@ class: center, middle
 
 ---
 class: orange center, middle
-![](images/family.jpeg)
+![](assets/family.jpeg)
 
 ---
 class: brown center, middle
-# `Henry` is 4 yrs
-# `Jonah` is 2 yrs
+# `Henry` is 5 yrs
+# `Jonah` is 3 yrs
 # `Stefanie` & `I` are the same age
 
 ---
@@ -77,17 +68,17 @@ class: center, middle
 
 ---
 class: brown center, middle
-## German `A2` Language Course 
+## Improving my `TypeScript` skills 
 
 ---
 class: orange center, middle
-![](images/mcscrpt-2.jpg)
-![](images/mcscrpt-1.jpg)
+![](assets/mcscrpt-2.jpg)
+![](assets/mcscrpt-1.jpg)
 ## Drum and Bass MC
 
 ---
 class: orange center, middle
-![](images/youtube.png)
+![](assets/youtube.png)
 ## Making Videos
 
 ---
@@ -97,15 +88,15 @@ class: orange center, middle
 
 ---
 class: orange center, middle
-# Tollwerk
-![](images/tollwerk.png)
+# compose.us
+![](assets/compose-us.png)
 
 ---
 class: center middle
 # Volunteer Work
 
-![](images/sokagakkai.jpg)
-![](images/beyondtellerrand-periscope.png)
+![](assets/sokagakkai.jpg)
+![](assets/beyondtellerrand-periscope.png)
 
 ---
 class: center middle
@@ -114,12 +105,4 @@ class: center middle
 
 ---
 class: center middle
-![](images/longhair.jpg)
-</textarea>
-<script src="bower_components/remark/remark.min.js"></script>
-<script type="text/javascript">
-    var slideshow = remark.create();
-</script>
-<script src="//localhost:35729/livereload.js"></script>
-</body>
-</html>
+![](assets/longhair.jpg)

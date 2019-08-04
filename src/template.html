@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- build:template
+    <title><%= name %></title>
+    /build -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<textarea id="source">
+    <!-- build:template
+    <%= presentation %>
+    /build -->
+</textarea>
+
+<!-- build:js bower_components/remark/remark.min.js -->
+<script src="bower_components/remark/remark.js" type="text/javascript"></script>
+<!-- /build -->
+
+<script type="text/javascript">
+    var slideshow = remark.create();
+</script>
+
+</body>
+</html>

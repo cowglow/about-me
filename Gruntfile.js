@@ -17,14 +17,14 @@ module.exports = function (grunt) {
                 separator: '\n'
             },
             build: {
-                src: ['partials/header.html', 'tutorial.md', 'partials/footer.html'],
+                src: ['partials/header.html', 'introduction.md', 'partials/footer.html'],
                 dest: 'index.html'
             }
         },
         less: {
             default: {
                 files: {
-                    'styles/main.css': 'styles/main.less'
+                    'styles/main.css': 'styles/styles.less'
                 }
             }
         },
