@@ -2,7 +2,7 @@ htmltitle: Profile on @cowglow
 class: orange center, middle, title
 
 # COWGLOW
-## An Introduction - June 2018
+## An Introduction - August 2019
 ![](assets/cg-yt-brand.png)
 .right[
     Philip Saa  
