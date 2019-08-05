@@ -13,7 +13,7 @@ function html() {
         .pipe(rename('index.html'))
         .pipe(pug({
             locals: {
-                name: pkg.name
+                name: 'cowglow/' + pkg.name
             },
             pretty: true
         }))
