@@ -1,6 +1,4 @@
-htmltitle: Profile on @cowglow
 class: orange center, middle, title
-
 # COWGLOW
 ## An Introduction - August 2019
 ![](assets/cg-yt-brand.png)
@@ -88,7 +86,7 @@ class: orange center, middle
 
 ---
 class: orange center, middle
-# compose.us
+# working in a German Start-Up
 ![](assets/compose-us.png)
 
 ---
