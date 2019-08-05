@@ -1,0 +1,11 @@
+doctype html
+html(lang="en")
+    head
+        title= name
+        meta(http-equiv="Content-Type" content="text/html; charset=UTF-8")
+        link(rel="stylesheet" type="text/css" href="styles.css")
+    body
+        textarea(id='source')
+            include introduction.md
+        script(type="text/javascript" src="app.min.js")
+        script(type='text/javascript') var slideshow = remark.create()
