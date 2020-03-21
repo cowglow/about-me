@@ -1,0 +1,21 @@
+name: Publish
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Build
+    steps:
+      - uses: actions/checkout@v2
+        run: npm build
+      - uses: SamKirkland/FTP-Deploy-Action@3.0.0
+        with:
+          ftp-server: ftp.cowglow.com/about-me/
+          ftp-username: ${{ secrets.FTP_USERNAME }}
+          ftp-password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: build/
+          git-ftp-args: --all
