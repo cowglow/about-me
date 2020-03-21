@@ -1,78 +1,24 @@
-body {
-  font-family: "Roboto", sans-serif;
+.slide {
+  background-color: @color1;
+  color: @color3;
+  font-family: @font-family;
 }
-// pre,
-// code,
-// code * {
-//   text-shadow: none;
-//   font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco,
-//     "Bitstream Vera Sans Mono", monospace;
-// }
-// code {
-//   background-color: #f0f0f0;
-//   color: #800;
-// }
-// h1 code,
-// h2 code,
-// h3 code,
-// p code,
-// li code {
-//   font-size: 0.9em;
-//   padding: 0 0.2em;
-// }
-// h1 {
-//   font-size: 4em;
-// }
-// h2 {
-//   font-size: 2.5em;
-// }
-// h3,
-// blockquote {
-//   font-size: 1.5em;
-// }
-// ul {
-//   font-size: 2.5em;
-// }
-// ol {
-//   font-size: 1.2em;
-// }
-// li {
-//   margin-bottom: 0.4em;
-// }
-// a {
-//   color: #ff0000;
-// }
-// a:hover {
-//   color: #cc0000;
-// }
-// img {
-//   max-width: 680px;
-// }
 
-// blockquote {
-//   border: 2px solid #453015;
-//   padding: 0.4em 1em 0.6em;
-//   font-weight: 700;
-//   margin-left: 0;
-//   margin-right: 0;
-// }
-// blockquote :first-child {
-//   margin-top: 0;
-// }
-// blockquote :last-child {
-//   margin-bottom: 0;
-// }
-// .footer {
-//   position: absolute;
-//   bottom: 12px;
-//   left: 20px;
-//   opacity: 0.5;
-//   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-//   filter: alpha(opacity=50);
-// }
-// .small {
-//   font-size: 85%;
-// }
-// .smaller {
-//   font-size: 70%;
-// }
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60%;
+
+  img {
+    border: 0.1em solid @color5;
+    border-radius: 50%;
+  }
+}
+
+.bottom-left {
+  position: fixed;
+  left: 3em;
+  bottom: 3em;
+  text-align: left;
+}
