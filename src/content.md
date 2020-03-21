@@ -1,157 +1,142 @@
-class: primary center, middle, title
+class: slide, center
 
-#COWGLOW
+# COWGLOW
 
-## An Introduction
+### An Introduction
 
 ![](assets/cg-yt-brand.png)
 
-.right[Philip Saa]
-.rightSmall[Last Update: March 2020]
+.bottom-left[Philip Saa<br/>Last Update: March 2020]
 
 ---
 
-class: primary center, middle
+class: slide, center, middle
 
-# About Me
+## ABOUT ME
 
+.profile[
 ![](assets/psaa.png)
+]
 
 ---
 
-class: primary left, middle
+class: slide, center, middle
 
-## I was born in Valencia, California
+## I was born in **_Valencia_**, **_California_**
 
-### but grew up in Los Angeles
-
----
-
-class: primary center, middle
-
-### Joined the Internet in 1996
-
+## but grew up in **_Los Angeles_**
 
 ---
 
-class: primary left, middle
+class: slide, center, middle
 
-### Learned Coding with `Pascal`
-
-### Worked with `ActionScript` & `Lingo`
-
-### Later learned `JavaScript` & `PHP`
-
-### Recently, `Angular` & `React`
+## Joined the Internet in 1996
 
 ---
 
-class: primary center, middle
+class: slide, left, middle
 
-# U.S. Army Veteran
+## Learned Coding with **_Pascal_**
 
-# Cal Arts Alumni
+## Worked with **_ActionScript_** & **_Lingo_**
 
-# LAFS Alumni
+## Later learned **_JavaScript_** & **_PHP_**
 
----
-
-class: center, middle
-
-# Why did I move to Germany?
+## Recently **_React_**
 
 ---
 
-class: secondary center, middle
+class: slide, center, middle
+
+## U.S. Army **_Veteran_**
+
+## Cal Arts **_Alumni_**
+
+## LAFS **_Alumni_**
+
+---
+
+class: slide, center, middle
+
+## Why did I move to Germany?
+
 ![](assets/family.jpeg)
 
 ---
 
-class: primary center, middle
+class: slide, center, middle
 
-# `Henry` is 5 yrs
+## **_Henry_** is 6 yrs
 
-# `Jonah` is 3 yrs
+## **_Jonah_** is 3 yrs
 
-# `Stefanie` & `I` are the same age
-
----
-
-class: primary center, middle
-
-## December `2012` Vacation
-
-### Found a job at the `JMRC` Multimedia Center
-
-## Started Working June `2013`
+## **_Stefanie_** & **_I_** are the same age
 
 ---
 
-class: primary center, middle
+class: slide, center, middle
 
-# Contract ended `2017`
+## December **_2012_** Vacation
 
----
+## Found a job at the **_JMRC_** Multimedia Center
 
-class: center, middle
-
-# So what am I up to now?
+## Started working June **_2013_**
 
 ---
 
-class: primary center, middle
+class: slide, center, middle
 
-## Improving my `TypeScript` skills
+## Contract ended **_2017_**
 
 ---
 
-class: secondary center, middle
-![](assets/mcscrpt-2.jpg)
-![](assets/mcscrpt-1.jpg)
+class: slide, center, middle
+
+## So what am I up to now?
+
+---
+
+class: slide, center, middle
 
 ## Drum and Bass MC
 
+![](assets/mcscrpt-2.jpg)
+![](assets/mcscrpt-1.jpg)
+
 ---
 
-class: secondary center, middle
-![](assets/youtube.png)
+class: slide, center, middle
 
 ## Making Videos
 
+![](assets/youtube.png)
+
 ---
 
-class: secondary center, middle
+class: slide, center, middle
 
-# and
+## and
 
 ### (of course)
 
 ---
 
-class: secondary center, middle
+class: slide, center, middle
 
-# working in a German Start-Up
+## working in a German Start-Up
 
 ![](assets/compose-us.png)
 
 ---
 
-class: center middle
-
-# Volunteer Work
-
-![](assets/sokagakkai.jpg)
-![](assets/beyondtellerrand-periscope.png)
-
----
-
-class: center middle
+class: slide, center, middle
 
 ## (Questions) ? "Bitte" : "Danke"
 
-## [www.cowglow.com](http://cowlgow.com)
+## [cowglow.com](https://cowlgow.com)
 
 ---
 
-class: center middle
+class: slide, center, middle
+
 ![](assets/longhair.jpg)
