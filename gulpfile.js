@@ -4,9 +4,10 @@ const pkg = JSON.parse(fs.readFileSync("./package.json"));
 const gulp = require("gulp");
 const pug = require("gulp-pug");
 const less = require("gulp-less");
-const minifyCSS = require("gulp-csso");
+const concat = require("gulp-concat");
 const rename = require("gulp-rename");
 const uglify = require("gulp-uglify");
+const minifyCSS = require("gulp-csso");
 
 const dest = "./build";
 
@@ -27,7 +28,8 @@ const html = () => {
 
 const css = () => {
   return gulp
-    .src("./src/styles.less")
+    .src("./src/styles/*")
+    .pipe(concat('/styles.min.css'))
     .pipe(less())
     .pipe(minifyCSS())
     .pipe(gulp.dest(dest));
@@ -48,7 +50,7 @@ exports.default = gulp.series(html, css, js, copy);
 
 exports.watch = () => {
   return gulp.watch(
-    ["./src/*.md", "./src/*.less", "./src/*.pug"],
+    ["./src/**/*"],
     gulp.series(html, css, js, copy)
   );
 };
