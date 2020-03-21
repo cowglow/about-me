@@ -7,10 +7,12 @@ on:
 
 jobs:
   build:
+    name: Build & Publish
     runs-on: ubuntu-latest
-    name: Build
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@master
+        with: 
+          fetch-depth: 2
       - uses: actions/setup-node@v1
       - run: npm build
       - uses: SamKirkland/FTP-Deploy-Action@3.0.0
