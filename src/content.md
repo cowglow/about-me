@@ -8,11 +8,11 @@ class: orange center, middle, title
 ]
 ---
 class: center, middle
-# Hi, how are ya today?
+# Servus!
 
 ---
 class: orange center
-# Facts About Me
+# About Me
 
 ![](assets/psaa.png)
 
