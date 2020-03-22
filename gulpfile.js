@@ -9,7 +9,7 @@ const rename = require("gulp-rename");
 const uglify = require("gulp-uglify");
 const minifyCSS = require("gulp-csso");
 
-const dest = "./build";
+const dest = "./about-me";
 
 const html = () => {
   return gulp
