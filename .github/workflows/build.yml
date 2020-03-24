@@ -21,7 +21,4 @@ jobs:
           ftp-username: ${{ secrets.FTP_USERNAME }}
           ftp-password: ${{ secrets.FTP_PASSWORD }}
           local-dir: build/
-          git-ftp-args: |
-            --all
-            --force
-            --verbose
+          git-ftp-args: --active --all --changed-only --no-verify --auto-init
