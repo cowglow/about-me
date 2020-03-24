@@ -1,4 +1,4 @@
-![CI](https://github.com/cowglow/about-me/workflows/Build%20&%20FTP%20Deploy/badge.svg)
+![Build & FTP Deploy](https://github.com/cowglow/about-me/workflows/Build%20&%20FTP%20Deploy/badge.svg)
 
 An Introduction
 ==
