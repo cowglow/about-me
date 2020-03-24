@@ -13,7 +13,7 @@ jobs:
       run: yarn install && yarn build
     - uses: SamKirkland/FTP-Deploy-Action@3.0.0
       with:
-        ftp-server: ftp://ftp.cowglow.com:21/about-me
+        ftp-server: ftp.cowglow.com
         ftp-username: ${{ secrets.FTP_USERNAME }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
         local-dir: build/
