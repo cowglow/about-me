@@ -24,4 +24,4 @@ jobs:
           git-ftp-args: |
             --all
             --force
-            -vv
+            --verbose
