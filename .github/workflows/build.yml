@@ -22,5 +22,4 @@ jobs:
           ftp-password: ${{ secrets.FTP_PASSWORD }}
           local-dir: build/
           git-ftp-args: |
-            --all
-            --insecure
+            --dry-run
