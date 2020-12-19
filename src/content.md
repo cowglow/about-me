@@ -6,7 +6,7 @@ class: slide, center
 
 ![](assets/cg-yt-brand.png)
 
-.bottom-left[Philip Saa<br/>Last Update: March 2020]
+.bottom-left[Philip Saa<br/>Last Update: December 2020]
 
 ---
 
@@ -22,9 +22,9 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-## I was born in **_Valencia_**, **_California_**
+## Originally from **_Los Angeles_**, **_California_**
 
-## but grew up in **_Los Angeles_**
+## currently living and working in **_Germany_**
 
 ---
 
@@ -36,13 +36,11 @@ class: slide, center, middle
 
 class: slide, left, middle
 
-## Learned Coding with **_Pascal_**
-
-## Worked with **_ActionScript_** & **_Lingo_**
+## Started coding with **_Pascal_**, **_ActionScript_** & **_Lingo_**
 
 ## Later learned **_JavaScript_** & **_PHP_**
 
-## Recently **_React_**
+## Recently **_Typescript React_**
 
 ---
 
@@ -58,7 +56,7 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-## Why did I move to Germany?
+## This is my family
 
 ![](assets/family.jpeg)
 
@@ -66,11 +64,11 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-## **_Henry_** is 6 yrs
+## **_Henry_** is 7 yrs
 
-## **_Jonah_** is 3 yrs
+## **_Jonah_** is 4 yrs
 
-## **_Stefanie_** & **_I_** are the same age
+## **_Stefanie_** & **_I_** both '81
 
 ---
 
@@ -123,7 +121,7 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-## working in a German Start-Up
+## Digitizating Municipalities and Cities
 
 ![](assets/compose-us.png)
 
