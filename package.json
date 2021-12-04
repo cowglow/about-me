@@ -20,6 +20,9 @@
     "gulp-uglify": "^3.0.2",
     "prettier": "^2.0.1"
   },
+  "resolutions": {
+    "glob-parent":"5.1.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/cowglow/about-me.git"
