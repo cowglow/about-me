@@ -1,5 +1,5 @@
 {
-  "name": "cowglow/about-me",
+  "name": "about-me",
   "version": "1.0.0",
   "main": "gulpfile.js",
   "author": "cowglow",
@@ -7,8 +7,7 @@
   "description": "Slide show about me(@cowglow)",
   "scripts": {
     "start": "gulp watch",
-    "build": "gulp",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gulp"
   },
   "dependencies": {},
   "devDependencies": {
