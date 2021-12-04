@@ -6,7 +6,7 @@ class: slide, center
 
 ![](assets/cg-yt-brand.png)
 
-.bottom-left[Philip Saa<br/>Last Update: December 2020]
+.bottom-left[Philip Saa<br/>Last Update: December 2021]
 
 ---
 
@@ -40,7 +40,7 @@ class: slide, left, middle
 
 ## Later learned **_JavaScript_** & **_PHP_**
 
-## Recently **_Typescript React_**
+## Recently **_Typescript Svelte_**
 
 ---
 
@@ -64,9 +64,9 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-## **_Henry_** is 7 yrs
+## **_Henry_** is 8 yrs
 
-## **_Jonah_** is 4 yrs
+## **_Jonah_** is 5 yrs
 
 ## **_Stefanie_** & **_I_** both '81
 
