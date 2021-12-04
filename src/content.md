@@ -40,7 +40,7 @@ class: slide, left, middle
 
 ## Later learned **_JavaScript_** & **_PHP_**
 
-## Recently **_Typescript Svelte_**
+## Recently **_Typescript_** & **_Svelte_**
 
 ---
 
@@ -51,6 +51,8 @@ class: slide, center, middle
 ## Cal Arts **_Alumni_**
 
 ## LAFS **_Alumni_**
+
+## B1 German Language **_Certified_** 
 
 ---
 
@@ -64,11 +66,11 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-## **_Henry_** is 8 yrs
+## **_Henry_** 2013
 
-## **_Jonah_** is 5 yrs
+## **_Jonah_** 2016
 
-## **_Stefanie_** & **_I_** both '81
+## **_Stefanie_** & **_I_** both 1981
 
 ---
 
@@ -131,7 +133,7 @@ class: slide, center, middle
 
 ## (Questions) ? "Bitte" : "Danke"
 
-## [cowglow.com](https://cowlgow.com)
+## [cowglow.com](https://cowglow.com)
 
 ---
 
