@@ -1,5 +1,5 @@
 {
-  "name": "about-me",
+  "name": "cowglow/about-me",
   "version": "1.0.0",
   "main": "gulpfile.js",
   "author": "cowglow",
@@ -28,8 +28,4 @@
   "keywords": [
     "remark"
   ],
-  "bugs": {
-    "url": "https://github.com/cowglow/about-me/issues"
-  },
-  "homepage": "https://github.com/cowglow/about-me#readme"
 }
