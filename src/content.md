@@ -22,9 +22,9 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-## Born in  **_Los Angeles_**, **_California_**
+## Born in **_Los Angeles_**, **_California_**
 
-## currently living and working in **_Germany_**
+## living and working in **_Germany_**
 
 ---
 
@@ -38,9 +38,9 @@ class: slide, left, middle
 
 ## Started coding with **_Pascal_**, **_ActionScript_** & **_Lingo_**
 
-## Experienced in **_JavaScript_** & **_PHP_**
+## Experience **_JavaScript_** & **_PHP_**
 
-## Recently **_Typescript_** & **_Svelte_**
+## Currently **_Typescript_** & **_Svelte_**
 
 ---
 
@@ -52,15 +52,15 @@ class: slide, center, middle
 
 ## LAFS **_Alumni_**
 
-## B1 German Language **_Zertifikat_** 
+## **_Zertifikat_** Deutsche B1
 
 ---
 
 class: slide, center, middle
 
-## European Saas
-
 ![](assets/family.png)
+
+## European Saas
 
 ---
 
@@ -92,14 +92,13 @@ class: slide, center, middle
 
 ## MC Scrpt (Drum and Bass)
 
-![](assets/mcscrpt-2.png)
-![](assets/mcscrpt-1.png)
+![](assets/mcscrpt.png)
 
 ---
 
 class: slide, center, middle
 
-## Cowglow (Video Media)
+## Cowglow (Video Projects)
 
 ![](assets/youtube.png)
 
@@ -107,7 +106,7 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-## Digitizating Public Administrations and Companies
+## Focus on Digitalization of Government and Enterprises
 
 ![](assets/compose-us.png)
 
@@ -123,4 +122,4 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-![](assets/longhair.png
+![](assets/longhair.png)
