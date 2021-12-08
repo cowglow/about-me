@@ -22,7 +22,7 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-## Originally from **_Los Angeles_**, **_California_**
+## Born in  **_Los Angeles_**, **_California_**
 
 ## currently living and working in **_Germany_**
 
@@ -38,7 +38,7 @@ class: slide, left, middle
 
 ## Started coding with **_Pascal_**, **_ActionScript_** & **_Lingo_**
 
-## Later learned **_JavaScript_** & **_PHP_**
+## Experienced in **_JavaScript_** & **_PHP_**
 
 ## Recently **_Typescript_** & **_Svelte_**
 
@@ -52,15 +52,15 @@ class: slide, center, middle
 
 ## LAFS **_Alumni_**
 
-## B1 German Language **_Certified_** 
+## B1 German Language **_Zertifikat_** 
 
 ---
 
 class: slide, center, middle
 
-## This is my family
+## European Saas
 
-![](assets/family.jpeg)
+![](assets/family.png)
 
 ---
 
@@ -70,23 +70,15 @@ class: slide, center, middle
 
 ## **_Jonah_** 2016
 
-## **_Stefanie_** & **_I_** both 1981
+## **_Stefanie_** & **_I_** 1981
 
 ---
 
 class: slide, center, middle
 
-## December **_2012_** Vacation
+## December **_2012_** Vacation found a job at the **_JMRC_** Multimedia Center
 
-## Found a job at the **_JMRC_** Multimedia Center
-
-## Started working June **_2013_**
-
----
-
-class: slide, center, middle
-
-## Contract ended **_2017_**
+## Started working June **_2013_** ended **_2017_**
 
 ---
 
@@ -98,16 +90,16 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-## Drum and Bass MC
+## MC Scrpt (Drum and Bass)
 
-![](assets/mcscrpt-2.jpg)
-![](assets/mcscrpt-1.jpg)
+![](assets/mcscrpt-2.png)
+![](assets/mcscrpt-1.png)
 
 ---
 
 class: slide, center, middle
 
-## Making Videos
+## Cowglow (Video Media)
 
 ![](assets/youtube.png)
 
@@ -115,15 +107,7 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-## and
-
-### (of course)
-
----
-
-class: slide, center, middle
-
-## Digitizating Municipalities and Cities
+## Digitizating Public Administrations and Companies
 
 ![](assets/compose-us.png)
 
@@ -139,4 +123,4 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-![](assets/longhair.jpg)
+![](assets/longhair.png
