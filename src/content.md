@@ -2,9 +2,9 @@ class: slide, center
 
 # COWGLOW
 
-### An Introduction
+.profile[![](assets/psaa.png)]
 
-![](assets/cg-yt-brand.png)
+## An Introduction About Me
 
 .bottom-left[Philip Saa<br/>Last Update: December 2021]
 
@@ -12,53 +12,41 @@ class: slide, center
 
 class: slide, center, middle
 
-## ABOUT ME
+## Born in _Los Angeles_, _California_
 
-.profile[
-![](assets/psaa.png)
-]
+## Living and working in _Germany_
 
 ---
 
 class: slide, center, middle
 
-## Born in **_Los Angeles_**, **_California_**
-
-## living and working in **_Germany_**
-
----
-
-class: slide, center, middle
-
-## Joined the Internet in 1996
+## Joined the _Internet_ in _1996_
 
 ---
 
 class: slide, left, middle
 
-## Started coding with **_Pascal_**, **_ActionScript_** & **_Lingo_**
+## Started coding with _Pascal_, _ActionScript_ & _Lingo_
 
-## Experience **_JavaScript_** & **_PHP_**
+## Experience _JavaScript_ & _PHP_
 
-## Currently **_Typescript_** & **_Svelte_**
-
----
-
-class: slide, center, middle
-
-## U.S. Army **_Veteran_**
-
-## Cal Arts **_Alumni_**
-
-## LAFS **_Alumni_**
-
-## **_Zertifikat_** Deutsche B1
+## Currently, _Typescript_ & _Svelte_
 
 ---
 
 class: slide, center, middle
 
-## European Saas
+## U.S. Army _Veteran_
+
+## Cal Arts & LAFS  _Alumni_
+
+## _Zertifikat_ Deutsche B1
+
+---
+
+class: slide, center, middle
+
+# European Saas
 
 .family[
 ![](assets/family.png)
@@ -68,58 +56,52 @@ class: slide, center, middle
 
 class: slide, center, middle
 
-## **_Henry_** 2013
+## _Jonah_ 2016
 
-## **_Jonah_** 2016
+## _Henry_ 2013
 
-## **_Stefanie_** & **_I_** 1981
-
----
-
-class: slide, center, middle
-
-## December **_2012_** Vacation found a job at the **_JMRC_** Multimedia Center
-
-## Started working June **_2013_** ended **_2017_**
+## _Stefanie_ & _Myself_ 1981
 
 ---
 
 class: slide, center, middle
 
-## So what am I up to now?
+## December _2012_ received job offer _JMRC_ Multimedia Center
+
+## June _2013_ until December _2017_
 
 ---
 
 class: slide, center, middle
 
+# So what am I up to now?
+
+---
+
+class: slide, center, middle
+
+.media[
+![](assets/mcscrpt.png)
+]
 ## MC Scrpt (Drum and Bass)
 
-.media[
-![](assets/mcscrpt-1.png)
-![](assets/mcscrpt-2.png)
-
-]
-
 ---
 
 class: slide, center, middle
 
+.media[
+![](assets/youtube.png)
+]
 ## Cowglow (Video Projects)
 
-.media[
-![](assets/youtube-1.png)
-![](assets/youtube-2.png)
-]
-
 ---
 
 class: slide, center, middle
 
-![](assets/compose-us.png)
-
-## Digitalization
-
-### of Government and Enterprises
+.media[
+![](assets/saab-deutschland.png)
+]
+## Enhancing Technology to Strengthen Security for Both Citizens and Their Security Forces
 
 ---
 
@@ -133,4 +115,6 @@ class: slide, center, middle
 
 class: slide, center, middle
 
+.end-card[
 ![](assets/longhair.png)
+]
